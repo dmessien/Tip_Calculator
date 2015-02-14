@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Bed</string>
+    <string name="hello_world">Tip Total: </string>
+    <string name="action_settings">Settings</string>
+
+    <string name="hinta">Amount</string>
+    <string name="actionLabela">Enter</string>
+
+    <string name="hintb">Percentage</string>
+    <string name="actionLabelb">Enter</string>
+
+    <string name="hintc">Please type the value for c.</string>
+    <string name="actionLabelc">C</string>
+
+
+
+</resources>
