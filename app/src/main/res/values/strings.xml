@@ -11,9 +11,5 @@
     <string name="hintb">Percentage</string>
     <string name="actionLabelb">Enter</string>
 
-    <string name="hintc">Please type the value for c.</string>
-    <string name="actionLabelc">C</string>
-
-
 
 </resources>
